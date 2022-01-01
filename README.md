@@ -9,7 +9,7 @@ One time, when I was shopping at Shopee, then I think about: How they actually p
 Download / copy FFMPEG at the same directory as the script's location. If you didn't know how to download it, just double-click on `download_ffmpeg.bat` at the root directory of this script. TL;DR:
 <details>
 <summary>Uhh, how to download it manually?</summary>
-1.  Download FFMPEG [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z) (Direct link).
+1.  Download FFMPEG (here)[https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z] (Direct link).
 <br>
 2. Unzip it then copy ffmpeg.exe under the bin directory to the same directory with this script.
 </details>

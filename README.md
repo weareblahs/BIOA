@@ -28,7 +28,7 @@ Basically, create an image with **the same width and height as the image you're 
 ## Step 3: Modify configuration files
 First, open the `config.ini` file for editing. Use whatever editor you want. Edit this line:
 ```
-general_overlay_image=overlay.png
+general_overlay_image=testimage.png
 ```
 by changing `overlay.png` to the complete path of the file. 
 (more easier: just rename it to "overlay.png" then put it at the same directory as the script's location)

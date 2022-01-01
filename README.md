@@ -53,3 +53,4 @@ All the sample files are included in the script by default when you downloaded i
 
 # To-do
 - [ ] Video support
+- [ ] Filename with spacing support

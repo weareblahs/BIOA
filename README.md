@@ -2,8 +2,11 @@
 This script allows you to add transparent images on top of another media file (image / video). Uses FFMPEG to process images over files.
 
 ## Background story
-~~Maybe you shouldn't read it and get into the next step~~
+~~Maybe you shouldn't read it and get into the next step~~  
 One time, when I was shopping at Shopee, then I think about: How they actually put the same watermark / overlay graphics on an image while it's time consuming?
+
+## For your information
+This script currently supports Windows PCs. macOS and Linux (or other Unix-based machines?) support coming soon.
 
 ## Before you use
 Download / copy FFMPEG at the same directory as the script's location. If you didn't know how to download it, just double-click on `download_ffmpeg.bat` at the root directory of this script. TL;DR:

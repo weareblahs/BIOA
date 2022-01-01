@@ -33,10 +33,10 @@ general_overlay_image=testimage.png
 by changing `overlay.png` to the complete path of the file. 
 (more easier: just rename it to "overlay.png" then put it at the same directory as the script's location)
 ### Finetuning FFMPEG settings? Let me explain first:
-`quality`: Change quality properties for FFMPEG image encoding. If you're exporting JPEG, then I recommend you to not change the quality property, as the JPEG file ~~will look more JPEG than usual~~ will become "blocky".
-`x` and `y`: Change the X-axis and Y-axis of the overlay file on the image.
-`outformat`: Change output format of image file. See [here](https://www.ffmpeg.org/general.html#toc-Image-Formats) for file formats (if it's X for encoding then it supports that fileformat for exporting).
-`custom_args` (under `ffmpeg_finetune_image_advanced`): Arguments before the output name. Advanced users only.
+`quality`: Change quality properties for FFMPEG image encoding. If you're exporting JPEG, then I recommend you to not change the quality property, as the JPEG file ~~will look more JPEG than usual~~ will become "blocky".  
+`x` and `y`: Change the X-axis and Y-axis of the overlay file on the image.  
+`outformat`: Change output format of image file. See [here](https://www.ffmpeg.org/general.html#toc-Image-Formats) for file formats (if it's X for encoding then it supports that fileformat for exporting).  
+`custom_args` (under `ffmpeg_finetune_image_advanced`): Arguments before the output name. Advanced users only.  
 
 ## Step 4: Move / copy all your source files to the "input" directory
 As the step heading said. Just copy what you want to add the overlay on to the "input" folder.

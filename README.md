@@ -1,4 +1,4 @@
-# BIOA: Batch Multimedia Overlay Adder
+# BMOA: Batch Multimedia Overlay Adder
 This script allows you to add transparent images on top of another media file (image / video). Uses FFMPEG to process images over files.
 
 ## Background story

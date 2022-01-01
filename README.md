@@ -37,5 +37,9 @@ by changing `overlay.png` to the complete path of the file.
 `x` and `y`: Change the X-axis and Y-axis of the overlay file on the image.
 `outformat`: Change output format of image file. See [here](https://www.ffmpeg.org/general.html#toc-Image-Formats) for file formats (if it's X for encoding then it supports that fileformat for exporting).
 `custom_args` (under `ffmpeg_finetune_image_advanced`): Arguments before the output name. Advanced users only.
+# Wait, any samples?
+![image](https://user-images.githubusercontent.com/37889443/147854202-c1f9a404-e051-450a-934c-4e2c24e085ee.png)
+All the sample files are included in the script by default when you downloaded it. You may delete these files safely. (or, delete sample files by running `DeleteSample.bat`)
+
 # To-do
-[ ] Video support
+- [ ] Video support

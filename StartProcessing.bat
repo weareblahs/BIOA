@@ -1,4 +1,4 @@
-@echo on
+@echo off
 :: Import variables - general
 for /f "delims=" %%i in ('LocalVariables config.ini image general_overlay_image') do set ol=%%i >nul
 :: Import variables - FFMPEG finetune

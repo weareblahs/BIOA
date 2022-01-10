@@ -1,5 +1,7 @@
 # BMOA: Batch Multimedia Overlay Adder
-This script allows you to add transparent images on top of another media file (image / video). Uses FFMPEG to process images over files.
+This script allows you to add transparent images on top of another media file (image / video). Uses FFMPEG to process images over files.  
+  
+~~reminder that this is not an nft generator, moving on~~
 
 ## Background story
 ~~Maybe you shouldn't read it and get into the next step~~  
